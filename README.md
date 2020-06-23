@@ -1,6 +1,7 @@
 # Report 
 Check out my "report.pdf" file for program screenshots and explaination of each phase.
-Also, a readme.txt file contains compilation details/instructions.
+
+Also, a readme.txt file containing compilation details/instructions has been added.
 
 # Summary 
 Design and implement an Email system event modeller & intrusion detection system in accordance with the system descriptions below. 
