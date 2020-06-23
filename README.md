@@ -1,5 +1,6 @@
 # Report 
 Check out my "report.pdf" file for program screenshots and explaination of each phase.
+Also, a readme.txt file contains compilation details/instructions.
 
 # Summary 
 Design and implement an Email system event modeller & intrusion detection system in accordance with the system descriptions below. 
@@ -42,9 +43,13 @@ Here goes an example Stats.txt file:
 
 Logins:4:1.5:
 
-Time online:150.5:25.00: Emails sent:10:3:
+Time online:150.5:25.00: 
 
-Emails opened:12:4.5: Emails deteled:7:2.25:
+Emails sent:10:3:
+
+Emails opened:12:4.5: 
+
+Emails deteled:7:2.25:
 
 The first line again contains the number of events being monitored. Each subsequent line is of the form
 Event name:mean:standard deviation:
